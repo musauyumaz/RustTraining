@@ -1,0 +1,7 @@
+[package]
+name = "L00_hw_data_types"
+description = "Hello World and Data Types App"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
